@@ -9,8 +9,6 @@ LIBVFS_SOURCES := \
 	snappy.cc \
 	exception_ptr.cc \
 	libdb_initialization.cc \
-	content.cc \
-	content_descriptor.cc \
 
 LIBVFS_LINK := \
 	arch \
